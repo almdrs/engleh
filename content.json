@@ -1,10 +1,18 @@
 {
   "version": "1.0",
-  "lastUpdated": "",
+  "lastUpdated": "2026-09-15T00:42:08.722Z",
   "basics": {
     "title": "أساسيات اللغة الإنكليزية",
     "subtitle": "ابدأ رحلتك من هنا",
-    "items": []
+    "items": [
+      {
+        "id": "basic-1789432926378",
+        "title": "A",
+        "description": "شلونك",
+        "pdfUrl": "ما اكو",
+        "imageUrl": ""
+      }
+    ]
   },
   "stages": [
     {
